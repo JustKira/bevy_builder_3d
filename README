@@ -1,0 +1,36 @@
+# bevy_builder_3d
+
+Welcome to the **bevy_builder_3d** project! This is a city-building, economy management, and turn-based combat system created using the [Bevy](https://bevyengine.org/) game engine. This repository is intended to serve as both a testing ground for new features and a guide for others interested in learning game development with Bevy.
+
+## Project Overview
+
+This project is focused on building a simple yet functional city builder that incorporates various game mechanics. It will allow players to:
+
+- **World Generator**: Create a procedurally generated world with different terrains and biomes.
+- **Building System**: Construct buildings to expand your city and manage resources.
+- **Economy Management**: Oversee production, consumption, and trade to balance your city's economy.
+- **Turn-Based Combat System**: Implement a basic turn-based combat mechanic for city defense or expansion.
+
+The goal of this project is to learn, share progress, and create a basic but functional game. While this is primarily a learning project, anyone interested in making games with Bevy can follow along and contribute.
+
+## Features (Expected)
+
+1. **World Generation**:
+
+   - Procedural terrain generation for cities to be built on.
+   - Customizable terrain features such as forests, mountains, rivers, etc.
+
+2. **Building System**:
+
+   - Ability to place and upgrade buildings.
+   - Resource production and consumption mechanics linked to the economy.
+
+3. **Economy Management**:
+
+   - Resource gathering and allocation.
+   - Trade and currency system to maintain balance within the city.
+   - Population growth and employment systems to affect resource output.
+
+4. **Turn-Based Combat System (Optional)**:
+   - Basic combat mechanics for defending your city or attacking others.
+   - Unit creation and strategy during turns.
